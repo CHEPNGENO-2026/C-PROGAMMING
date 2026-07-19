@@ -1,7 +1,7 @@
 // A program to manage employee payroll infomation
 /*
-Name: Joshua Kioko
-Reg No: BCS-03-0067/2026
+Name: Bett Chepngeno
+Reg No: BCS-03-0065/2026
 Version 1
 */
 
